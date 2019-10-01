@@ -1,0 +1,1 @@
+bot: java -jar build/libs/PinBot-1.0-all.jar
